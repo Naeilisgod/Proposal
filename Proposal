@@ -54,7 +54,7 @@
 
 <div class="btns" role="group" aria-label="Odpovědi">
   <button class="yes" id="yesBtn">ANO 💍</button>
-  <button class="no" id="noBtn">Počkej</button>
+  <button class="no" id="noBtn">NE</button>
 </div>
 
 <p class="small">Můžeš také přidat vlastní zprávu nebo datum. Ulož stránku jako HTML a sdílej odkaz.</p>
